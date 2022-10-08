@@ -1,0 +1,125 @@
+h1{
+  text-align: center;
+}
+.headerDiv{
+  background-color: rgb(21, 21, 61);
+  height: 100%;
+  width: 100%;
+}
+.headerDiv2{
+  background-color: rgb(226, 226, 245);
+  height: 100%;
+  width: 100%;
+}
+.headerH1{
+  color: brown;
+  position: absolute;
+  width: 10%;
+  height: 10%;
+}
+.headerSpan{
+  color: aliceblue;
+}
+.headerButton{
+  width: 13%;
+  height: 10%;
+  margin-left: 10%;
+  margin-top: 1.7%;
+  color: rgb(255, 255, 255);
+  font-size:150%;
+}
+.headerButton:hover{
+  width: 13%;
+  height: 10%;
+  color: rgb(44, 17, 119);
+}
+.headerButtonColorL{
+  border-radius: 16px 0 0 16px ;
+  width: 30px;
+  height: 30px;
+  background-color: antiquewhite;
+  margin-left: 0%;
+}
+.headerButtonColorR{
+  border-radius:0 16px 16px 0;
+  width: 30px;
+  height: 30px;
+  background-color: antiquewhite;
+  margin-left: 0%;
+}
+.headerButtonColorL:hover{
+  border-radius: 16px 0 0 16px ;
+  width: 30px;
+  height: 30px;
+  background-color: black;
+}
+.headerButtonColorR:hover{
+  border-radius:0 16px 16px 0;
+  width: 30px;
+  height: 30px;
+  background-color: black;
+}
+
+.settingButton{
+  width: 80%;
+  height: 40px;
+  margin-top:3%;
+  margin-left: 200px;
+  background-color: aqua;
+  font-size: 20px;
+}
+.settingButton:hover{
+  width: 80%;
+  height: 40px;
+  margin-top:3%;
+  margin-left: 200px;
+  background-color: rgb(81, 124, 124);
+  font-size: 20px;
+}
+
+
+
+body{
+  background-color: rgb(21, 21, 61);
+  color: aliceblue;
+  animation: 5000s;
+}
+.div1{
+  margin-left: 45%;
+}
+.div1{
+  text-align: center;
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+  border-radius: 16px 16px 16px 16px;
+  transition: 900ms;
+}
+.div1:hover{
+  background-color: rgb(255, 0, 0);
+  width: 150px;
+  height: 200px;
+}
+div button{
+  width: 50px;
+  height: 35px;
+  background-color: rgb(122, 134, 130);
+  border-radius: 0 16px 0 16px;
+  transition: 900ms;
+}
+div button:hover{
+  width: 70px;
+  height: 40px;
+  border-radius: 16px 0 16px 0;
+  background-color: aliceblue;
+}
+
+
+
+.footerHr{
+  margin-top: 10%;
+}
+.footerH1{
+  color: rgb(92, 99, 105);
+  text-align: center;
+}
